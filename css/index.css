@@ -16,3 +16,22 @@ body{
   margin-top: 50px;
   color: white;
 }
+
+
+.socials {
+  font-size: 5rem;
+  color: white;
+}
+
+.footer {
+  margin-top: 50px;
+  background-color: green;
+  color: white;
+}
+
+.footer .footer-bottom {
+  background-color: green;
+  font-size: 2rem;
+  text-align: center;
+  padding-bottom: 0px;
+}
