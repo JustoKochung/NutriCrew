@@ -10,3 +10,34 @@ img{
     margin-left: 5%;
 }
 
+.wp-image-9935{
+    display: none;
+}
+.wprm-recipe-image{
+display: none;
+}
+
+.wprm-recipe{
+    padding: 5%;
+}
+
+.wprm-container-float-right{
+    margin-left: 40%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.wprm-recipe-print{
+    text-align: center;
+}
+
+.wp-image-17005{
+    height: 80vh;
+    width: 90%;
+    margin-left: 0%;
+}
+
+
+#attachment_17005{
+   float: left;
+}
