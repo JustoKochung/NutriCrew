@@ -11,6 +11,7 @@ body{
 .content{
   width: 500px;
   margin-left:400px;
+  box-shadow: 0px 0px 16px #073805;
   background-color: rgb(67, 179, 67);
   margin-top: 50px;
   color: white;
