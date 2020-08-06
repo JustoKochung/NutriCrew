@@ -1,0 +1,17 @@
+body{
+  text-align: center;
+  background-color: white;
+}
+
+.navbar-brand{
+  color: white;
+  font-size: 1.2em;
+}
+
+.content{
+  width: 500px;
+  margin-left:400px;
+  background-color: rgb(67, 179, 67);
+  margin-top: 50px;
+  color: white;
+}
