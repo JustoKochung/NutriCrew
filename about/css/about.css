@@ -1,0 +1,27 @@
+h2{
+    text-align: center;
+    color: green;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+body{
+    background-color: greenyellow;
+}
+
+#logo{
+    float: left;
+    color: blue;
+    padding-left: -20%;
+    text-shadow: green 0px 1px ;
+    opacity: 2px;
+}
+
+.card{
+    font: fantasy;
+}
+h3{
+    color: green;
+}
+a{
+    color: white;
+}

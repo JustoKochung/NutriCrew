@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,300&display=swap');
+
+body{
+    font-family: 'Merriweather', serif;
+}
+h1{
+    color: green;
+    text-align: center;
+    margin-bottom: 5%;
+    font-size: 54px;
+    margin-top: 5%;
+}
+h2{
+    color: green;
+}
+
+#icons{
+    align-items: center;
+    background-color: green;
+    color: white;
+    padding: 1%;
+}
+
+#icons a{
+  
+    margin: 1%;    
+    color: white;
+}
+
+#icons a:hover{
+   
+    color: black;
+    
+}
+
+h4{
+    color: green;
+}
+
+h3{
+    color: green;
+}
+
+
+
+img{
+    width: 60%;
+    height: 80vh;
+    margin-left: 15%;
+}
+
+.wp-image-17011{
+    height: 80vh;
+    width: 90%;
+    margin-left: 5%;
+}
+
+.wp-image-9935{
+    display: none;
+}
+.wprm-recipe-image{
+display: none;
+}
+
+.wprm-recipe{
+    padding: 5%;
+}
+
+.wprm-container-float-right{
+    margin-left: 40%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.wprm-recipe-print{
+    text-align: center;
+}
+
+.wp-image-17005{
+    height: 80vh;
+    width: 90%;
+    margin-left: 0%;
+}
+
+
+#attachment_17005{
+   float: left;
+}
