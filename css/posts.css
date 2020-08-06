@@ -8,8 +8,36 @@ h1{
     text-align: center;
     margin-bottom: 5%;
     font-size: 54px;
+    margin-top: 5%;
 }
 h2{
+    color: green;
+}
+
+#icons{
+    align-items: center;
+    background-color: green;
+    color: white;
+    padding: 1%;
+}
+
+#icons a{
+  
+    margin: 1%;    
+    color: white;
+}
+
+#icons a:hover{
+   
+    color: black;
+    
+}
+
+h4{
+    color: green;
+}
+
+h3{
     color: green;
 }
 
