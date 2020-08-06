@@ -10,8 +10,18 @@ body{
 
 #logo{
     float: left;
-    color: rgb(86, 151, 86);
+    color: blue;
     padding-left: -20%;
-    text-shadow: ivory 0px 1px ;
+    text-shadow: green 0px 1px ;
     opacity: 2px;
+}
+
+.card{
+    font: fantasy;
+}
+h3{
+    color: green;
+}
+a{
+    color: white;
 }
