@@ -113,19 +113,22 @@ body * + * {
     text-align: left;
 }
 
-.socials {
-  font-size: 5rem;
+#icons{
+  align-items: center;
+  background-color: green;
+  color: white;
+  padding: 1%;
+  margin-top: 50px;
+}
+
+#icons a{
+
+  margin: 1%;    
   color: white;
 }
 
-.footer {
-  background-color: green;
-  color: white;
-}
-
-.footer .footer-bottom {
-  background-color: green;
-  font-size: 2rem;
-  text-align: center;
-  padding-bottom: 0px;
+#icons a:hover{
+ 
+  color: black;
+  
 }
