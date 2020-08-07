@@ -5,6 +5,14 @@ body{
   text-align: center;
   background-color: white;
   font-family: 'Merriweather', serif;
+  
+}
+
+.image{
+  position: absolute;
+  margin-left: 50px;
+  margin-top: 50px;
+  box-shadow: 0px 0px 16px #073805;
 }
 
 .navbar-brand{
@@ -12,9 +20,16 @@ body{
   font-size: 1.2em;
 }
 
+.text{
+  position: relative;
+  font-weight: bolder;
+  transform: translate(50% 50%);
+}
+
 .content{
+  position: relative;
   width: 500px;
-  margin-left:400px;
+  margin-left:750px;
   box-shadow: 0px 0px 16px #073805;
   background-color: rgb(67, 179, 67);
   margin-top: 50px;
